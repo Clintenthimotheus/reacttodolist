@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "username": "dsd",
+      "password": "a12345678",
+      "email": "clinten@gmail.com",
+      "todos": [],
+      "id": 5
+    },
+    {
+      "username": "clinten",
+      "password": "clinten123",
+      "email": "clinten@gmail.com",
+      "todos": [
+        {
+          "id": "0.9131727449839016",
+          "text": "clinten",
+          "checked": false
+        },
+        {
+          "id": "0.5381055887404886",
+          "text": "ajmal",
+          "checked": false
+        }
+      ],
+      "id": 6
+    },
+    {
+      "username": "ajmal",
+      "password": "ajmal1234",
+      "email": "ajmal@gmail.com",
+      "todos": [
+        {
+          "id": "0.2937951563646295",
+          "text": "hello",
+          "checked": false
+        },
+        {
+          "id": "0.7527195996517744",
+          "text": "hey",
+          "checked": false
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
